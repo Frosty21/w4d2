@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Frosty21/w4d2#readme",
   "dependencies": {
+    "knex": "^0.12.7",
     "pg": "^6.1.2"
   }
 }
